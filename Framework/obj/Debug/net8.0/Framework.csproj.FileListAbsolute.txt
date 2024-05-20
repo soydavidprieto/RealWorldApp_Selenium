@@ -1,0 +1,16 @@
+C:\Projects\RealWorldApp_Selenium\Framework\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Projects\RealWorldApp_Selenium\Framework\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Projects\RealWorldApp_Selenium\Framework\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Projects\RealWorldApp_Selenium\Framework\bin\Debug\net8.0\Framework.deps.json
+C:\Projects\RealWorldApp_Selenium\Framework\bin\Debug\net8.0\Framework.dll
+C:\Projects\RealWorldApp_Selenium\Framework\bin\Debug\net8.0\Framework.pdb
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.csproj.AssemblyReference.cache
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.sourcelink.json
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.dll
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\refint\Framework.dll
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\Framework.pdb
+C:\Projects\RealWorldApp_Selenium\Framework\obj\Debug\net8.0\ref\Framework.dll
